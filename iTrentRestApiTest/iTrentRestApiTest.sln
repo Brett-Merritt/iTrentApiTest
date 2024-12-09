@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iTrentRestApiTest", "iTrentRestApiTest\iTrentRestApiTest.csproj", "{4A09FFF3-C911-4D32-8576-15578BF8C935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A09FFF3-C911-4D32-8576-15578BF8C935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A09FFF3-C911-4D32-8576-15578BF8C935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A09FFF3-C911-4D32-8576-15578BF8C935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A09FFF3-C911-4D32-8576-15578BF8C935}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73AEEA8B-8796-4F5C-B4FA-7E9E67EA5683}
+	EndGlobalSection
+EndGlobal
